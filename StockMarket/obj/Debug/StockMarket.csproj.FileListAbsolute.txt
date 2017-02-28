@@ -1,0 +1,1 @@
+c:\users\mark mendoza\documents\visual studio 2015\Projects\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
