@@ -1,19 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace StockMarket
 {
     internal class StockBroker
     {
-        private string v;
+        private string _stockBrokerName { get; set; }
+        static List<Stock> _listOfStock = new List<Stock>();
 
-        public StockBroker(string v)
+
+        public StockBroker(string StockBrokerName)
         {
-            this.v = v;
+            this._stockBrokerName = StockBrokerName;
         }
 
         internal void AddStock(Stock stock1)
         {
-            throw new NotImplementedException();
+
         }
     }
 }
