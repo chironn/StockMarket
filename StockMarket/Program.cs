@@ -11,6 +11,7 @@ namespace StockMarket
         public static readonly object Lock1 = new object();
         static void Main(string[] args)
         {
+            Console.WriteLine("Broker".PadRight(15) + " " + "Stock".PadRight(15) + "Value".PadRight(10) + "Changes".PadRight(10)+"\n");
             Stock stock1 = new Stock("Technology", 160, 5, 15);
             Stock stock2 = new Stock("Retail", 30, 2, 6);
             Stock stock3 = new Stock("Banking", 90, 4, 10);

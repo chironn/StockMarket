@@ -1,1 +1,6 @@
 c:\users\mark mendoza\documents\visual studio 2015\Projects\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
